@@ -1,0 +1,5 @@
+#!/bin/sh
+
+df -m > ./tmp/df.txt
+echo "mesg"
+exit 99
